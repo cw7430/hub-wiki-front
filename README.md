@@ -26,10 +26,11 @@ npm run dev
 ```bash
 └── src/
     ├── app/
+    │   └── app.vue
+    ├── pages/
     │   ├── edit/
     │   ├── history/
-    │   ├── w/
-    │   └── app.vue
+    │   └── w/
     ├── processes/
     ├── widgets/
     ├── features/
