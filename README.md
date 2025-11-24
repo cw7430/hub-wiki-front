@@ -18,7 +18,7 @@ npm run dev
 - 생성된 위키 문서는 수정, 삭제할 수 없다
 
 ## 기술 스택
-- Frontend: Nuxt 3, Vue 3, TypeScript
+- Frontend: Nuxt 4, Vue 3, TypeScript
 - SSR: Nitro, Vite
 - Language: Vue SFC, Composition API
 
