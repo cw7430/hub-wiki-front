@@ -31,6 +31,7 @@ npm run dev
     │   ├── edit/
     │   ├── history/
     │   └── w/
+    ├── layouts/
     ├── processes/
     ├── widgets/
     ├── features/
