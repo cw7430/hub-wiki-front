@@ -6,6 +6,7 @@ git bash에서
 ```bash
 git clone https://github.com/cw7430/hub-wiki-front.git
 cd hub-wiki-front
+npm install
 npm run dev
 ```
 ## 프로젝트 목적
